@@ -1,5 +1,6 @@
 import networkx as nx
 import numpy as np
+#we are given in input 12 files (P1-P12) and the objective is to return a list of the
 #create lists
 p = []
 l = []
