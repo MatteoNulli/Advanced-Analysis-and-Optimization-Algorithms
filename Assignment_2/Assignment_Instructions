@@ -1,1 +1,5 @@
-ciao
+Assignment Instructions
+
+We have a vehicle which needs to pass a known test track. You are given values P_req(t) for each time t = 1,... t. 
+
+<img src="https://render.githubusercontent.com/render/math?math=P_req(t)">
